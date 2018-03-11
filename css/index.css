@@ -1,0 +1,19 @@
+#grid-container {
+	display: grid;
+	max-width: 400px;
+	margin:auto;
+}
+.cell{
+	background-color: rgb(246, 246, 246);
+	border: solid 0.2px rgb(223, 223, 223);
+}
+
+.black {
+	background-color: black
+}
+
+.button{
+	max-width:740px;
+	margin:auto;
+	text-align: center;
+}
